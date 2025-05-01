@@ -17,7 +17,7 @@ To run this project, you'll need to install the following Python libraries:
 - Dash
 - Plotly
 - Pandas
-- Jupyter (for running notebooks)
+- Jupyter 
 
 You can install these dependencies using pip:
 
